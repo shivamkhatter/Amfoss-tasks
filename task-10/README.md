@@ -1,1 +1,1 @@
-this task i had to understand how does c works but still i am not  quite familiar with c and this made me learn some of the c but still i didnt  got enough  time to complete this task properly as it took me some time 
+this task i had to understand how does c works but still i am not  quite familiar with c and this made me learn some of the c but still i didnt  get enough  time to complete this task properly as it take some more time 
