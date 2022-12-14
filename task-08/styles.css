@@ -1,0 +1,105 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+  font-family: 'Syne Mono', monospace;
+
+}
+
+
+
+.a {
+
+}
+
+.s {
+
+}
+
+.d {
+
+}
+
+.j {
+
+}
+
+.k {
+
+}
+
+.l {
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+.w{
+  background-color:black;
+  font-family: 'Lobster', cursive;
+  box-shadow: 60px -16px rgb(111, 109, 194);
+}
+.a{
+  background-color: aqua;
+  font-family: 'Lobster', cursive;
+  box-shadow: 60px -16px rgb(161, 83, 83);
+}
+.s{
+  background-color: bisque;
+  font-family: 'Lobster', cursive;
+  box-shadow: 60px -16px teal;
+}
+.d{
+  background-color: #283149;
+  font-family: 'Lobster', cursive;
+  box-shadow: 60px -16px rgb(109, 128, 0);
+}
+.j{background-color: #404B69;
+  font-family: 'Lobster', cursive;
+  box-shadow: 60px -16px rgb(128, 0, 6);
+}
+.k{background-color: antiquewhite;
+  font-family: 'Lobster', cursive;
+  box-shadow: 60px -16px rgb(19, 0, 128);
+}
+.l{background-color: aquamarine;
+  font-family: 'Lobster', cursive;
+  box-shadow: 60px -16px rgb(69, 131, 54);
+}
