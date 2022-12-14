@@ -10,7 +10,7 @@
 | [Task-05](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-05)   | Debugging | Completed |
 | [Task-06](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-06)   | Flamegame | Completed |
 | [Task-08](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-08)   | Internet Explorer | Completed |
-| [Task-09](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-09)   | Krypto Scraper | Partially done |
+| [Task-09](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-09)   | Krypto Scraper |  done |
 | [Task-10](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-10)   | Cs50 | partially Completed |
 | Task-11   | Figma Ninja | Not attempted |
 | Task-12   | Footfall Counter | Not attempted |
