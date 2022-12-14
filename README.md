@@ -15,5 +15,5 @@
 | [Task-11]( https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-10)  | Figma Ninja | half done |
 | Task-12   | Footfall Counter | Not attempted |
 | Task-13   | Bunny Heist | Not attempted |
-| [Task-14](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-014)   | Bandit | Completed |
+| [Task-14](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-14)   | Bandit | Completed |
 | Task-15   | Euler Project | Not attempted |
