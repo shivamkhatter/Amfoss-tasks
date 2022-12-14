@@ -1,0 +1,1 @@
+I tried with my full potential and i made the wasmjs and all but becuase go was  a very new language and it was pretty hard to find some relatable stuff on google. so i couldn'e complete this task but i'll make sure that i will learn go language in the coming month 
