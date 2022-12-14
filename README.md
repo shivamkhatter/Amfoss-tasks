@@ -12,7 +12,7 @@
 | [Task-08](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-08)   | Internet Explorer | Completed |
 | [Task-09](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-09)   | Krypto Scraper |  done |
 | [Task-10](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-10)   | Cs50 | partially Completed |
-| Task-11   | Figma Ninja | Not attempted |
+| [Task-11]( https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-10)  | Figma Ninja | half done |
 | Task-12   | Footfall Counter | Not attempted |
 | Task-13   | Bunny Heist | Not attempted |
 | [Task-14](https://github.com/shivamkhatter/Amfoss-tasks/tree/main/task-014)   | Bandit | Completed |
