@@ -1,0 +1,1 @@
+this task was completly new for me and i tried it really hard like for 3 days i gave 8hrs to this and when finally my scrapping came in list i was so happpy but after that i got stucked and didn't wanted to waste my time in trying one task only so i shifted on other tasks and done them
