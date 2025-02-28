@@ -6,7 +6,7 @@ import csv
 
 # TODO: 1.1 Get your environment variables 
 yourkey =""
-bot_id = "5753496927:AAGGcmvPW2UXzsYspSMPhKtnAc_j6TOx7HU"
+bot_id = ""
 
 bot = telebot.TeleBot(bot_id)
 
